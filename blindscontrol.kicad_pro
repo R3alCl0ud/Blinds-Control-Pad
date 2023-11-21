@@ -428,8 +428,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "blindscontrol.step",
+      "vrml": "blindscontrol.wrl"
     },
     "page_layout_descr_file": ""
   },
